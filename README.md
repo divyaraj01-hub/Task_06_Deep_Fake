@@ -24,7 +24,7 @@ Both "Sarah Mitchell" journalist and "Coach Treanor" personas
 
 My Experience:
 
-✅ Pros: Surprisingly natural-sounding voices, easy interface
+✅ Pros: Surprisingly natural-sounding voices, easy interface 
 ❌ Cons: Character limit meant I had to be strategic about script length
 🔧 Workaround: Broke script into segments, prioritized most important parts
 Quality Rating: 9/10 - Best quality I found for free tools
@@ -231,7 +231,7 @@ Learning Priority: Understanding TTS tools more valuable than struggling with vi
 
 
 My Workflow Development
-Phase 1: Research & Tool Discovery (4 hours)
+Phase 1: Research & Tool Discovery 
 What I Did:
 
 Researched available free TTS platforms
@@ -239,7 +239,7 @@ Created accounts and tested basic functionality
 Documented capabilities and limitations of each tool
 
 Key Learning: Tool evaluation upfront saves time later
-Phase 2: Content Strategy (2 hours)
+Phase 2: Content Strategy 
 What I Did:
 
 Analyzed Task 5 for most compelling insights
@@ -247,7 +247,7 @@ Developed character profiles for interview participants
 Outlined interview structure and key topics
 
 Key Learning: Character development time was well invested
-Phase 3: Script Development (4 hours)
+Phase 3: Script Development
 What I Did:
 
 Multiple script iterations with different approaches
@@ -255,7 +255,7 @@ Tested readability and natural flow
 Verified statistical accuracy throughout
 
 Key Learning: Writing for speech is different than writing for reading
-Phase 4: Voice Generation Testing (3 hours)
+Phase 4: Voice Generation Testing 
 What I Did:
 
 Generated sample audio with different platforms
@@ -263,7 +263,7 @@ Tested voice selection and settings optimization
 Experimented with post-processing techniques
 
 Key Learning: Small voice selection changes have big impact on authenticity
-Phase 5: Documentation & Reflection (2 hours)
+Phase 5: Documentation & Reflection 
 What I Did:
 
 Comprehensive process documentation
